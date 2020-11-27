@@ -1,0 +1,18 @@
+body {background-image: url('dovi.jpg');
+      background-size: 1920px 1080px;
+}
+h2 {font-family: comic sans ms;
+    background-color: #aaccaa;
+    text-align: center;    
+}
+table {background: grey;}
+.td{font-weight: bold;}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+h3 {font-family: comic sans ms;
+    background-color: #aaccaa;
+    text-align: center;    
+}
