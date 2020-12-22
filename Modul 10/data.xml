@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type="text/css" href="data.css"?>
+<mahasiswa>
+    <ID>
+        <NIM>L200170118</NIM>
+        <Nama>Sartika Rizky Moromukti</Nama>
+        <Kota>Surakarta</Kota>
+    </ID>
+    <ID>
+        <NIM>L200170110</NIM>
+        <Nama>Fitri Cahya Kusumawati</Nama>
+        <Kota>Ngawi</Kota>
+    </ID>
+    <ID>
+        <NIM>L200170127</NIM>
+        <Nama>Agatha Febiananda Purnomo</Nama>
+        <Kota>Purwodadi</Kota>
+    </ID>
+    <ID>
+        <NIM>L200170115</NIM>
+        <Nama>Windi Saputri</Nama>
+        <Kota>Pemalang</Kota>
+    </ID>
+</mahasiswa>
